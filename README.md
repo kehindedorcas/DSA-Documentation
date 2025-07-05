@@ -49,6 +49,10 @@ WHERE A> 45
 
 ### Analysis
 
+![data badge](https://github.com/user-attachments/assets/52784493-d852-47fc-97e1-d23338d7ff7a)
+
+*italics*
+**Bold**
 
 
 
